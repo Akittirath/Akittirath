@@ -7,11 +7,5 @@
   - [osTicket: Post-Installation Config](https://github.com/Akittirath/oS-Ticket-Post-Installation-Config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Akittirath/osTicket-Ticket-Lifecycle-Examples)
 
-
-
-
-
-
-
 <h2>🤳Connect with me:</h2>
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://www.linkedin.com/in/austin-kittirath-43578a224/" />][linkedin]
+
