@@ -4,4 +4,5 @@
 
 - <b>osTicket (Help Desk Ticketing)</b>
   - [osTicket: Prereq and Installation](https://github.com/Akittirath/osticket-Prereqs-Installation)
-  - [osTicket: Post-Installation Config](
+  - [osTicket: Post-Installation Config](https://github.com/Akittirath/oS-Ticket-Post-Installation-Config)
+  - 
