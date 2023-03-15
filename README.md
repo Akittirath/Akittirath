@@ -3,4 +3,5 @@
 <h2>💻🖱 Information Technology Projects </h2>
 
 - <b>osTicket (Help Desk Ticketing)</b>
-  - [osTicket: Prereq and Installation](
+  - [osTicket: Prereq and Installation](https://github.com/Akittirath/osticket-Prereqs-Installation)
+  - [osTicket: Post-Installation Config](
