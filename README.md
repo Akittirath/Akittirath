@@ -6,6 +6,8 @@
   - [osTicket: Prereq and Installation](https://github.com/Akittirath/osticket-Prereqs-Installation)
   - [osTicket: Post-Installation Config](https://github.com/Akittirath/oS-Ticket-Post-Installation-Config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Akittirath/osTicket-Ticket-Lifecycle-Examples)
+- <b>Microsoft Azure</b>
+  - [Implementing-Active-Directory-](https://github.com/Akittirath/Implementing-Active-Directory-)
 
 <h2>🤳Connect with me:</h2>
 
