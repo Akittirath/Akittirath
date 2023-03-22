@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Akittirath/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Implementing-Active-Directory-](https://github.com/Akittirath/Implementing-Active-Directory-)
+  - [Building-Intuition-DNS](https://github.com/Akittirath/Building-Intuition-DNS)
 
 <h2>🤳Connect with me:</h2>
 
