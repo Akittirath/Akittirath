@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Implementing-Active-Directory-](https://github.com/Akittirath/Implementing-Active-Directory-)
   - [Building-Intuition-DNS](https://github.com/Akittirath/Building-Intuition-DNS)
+  - [Network-Fileshare-and-Permissions](https://github.com/Akittirath/Network-Fileshare-and-Permissions/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 
