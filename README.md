@@ -11,5 +11,8 @@
   - [Building-Intuition-DNS](https://github.com/Akittirath/Building-Intuition-DNS)
   - [Network-Fileshare-and-Permissions](https://github.com/Akittirath/Network-Fileshare-and-Permissions/blob/main/README.md)
 
+- <b>Excel Dashboard Projects</b>
+  -[Dashboard-01](https://github.com/Akittirath/Excel-Dashboards)
+
 <h2>🤳Connect with me:</h2>
 
