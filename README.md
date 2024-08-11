@@ -12,7 +12,7 @@
   - [Network-Fileshare-and-Permissions](https://github.com/Akittirath/Network-Fileshare-and-Permissions/blob/main/README.md)
 
 - <b>Cyber Security Projects</b>
-  - 
+  - [Conducting a security internal audit](https://github.com/Akittirath/Conducting-a-Security-Audit.git)
 
 <h2>🤳Connect with me:</h2>
 
