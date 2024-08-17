@@ -13,6 +13,7 @@
 
 - <b>Cyber Security Projects</b>
   - [Conducting A Security Internal Audit](https://github.com/Akittirath/Conducting-a-Security-Audit.git)
+  - [Install Softwares in Linux Distribution](https://github.com/Akittirath/Install-Software-in-Linux-Distribution.git)
 
 <h2>🤳Connect with me:</h2>
 
